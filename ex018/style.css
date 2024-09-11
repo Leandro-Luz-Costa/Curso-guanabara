@@ -1,0 +1,9 @@
+@charset "UTF-18";
+
+    *{
+        height: 100%;;
+    }
+    body{
+       background-image: linear-gradient(to bottom, #555ACC, #7847BD, #B22E9C, #EA4750,#FB932E);
+       background-attachment: fixed;
+    }
